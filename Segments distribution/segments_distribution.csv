@@ -1,0 +1,19 @@
+﻿No.;Segment name;Abbreviation;Normal_4;Normal_6;Normal_7;Normal_8;Normal_9;Normal_18;Diseased_4;Diseased_10;Normal_2;Normal_11;Normal_12;Normal_16;Diseased_2;Diseased_6;Diseased_8;Diseased_18;Normal_1;Normal_13;Normal_15;Diseased_3;Diseased_7;Diseased_15;Diseased_16;Diseased_19;Normal_3;Normal_5;Normal_19;Diseased_1;Diseased_5;Diseased_13;Diseased_17;Diseased_20;Normal_10;Normal_14;Normal_17;Normal_20;Diseased_9;Diseased_11;Diseased_12;Diseased_14
+1;Proximal of RCA;pRCA;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+2;Medial of RCA;mRCA;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+3;Distal of RCA;dRCA;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+4;Right posterior descending artery;R-PDA;x;x;x;x;x;;x;;;x;;x;x;x;x;x;x;x;x;x;x;x;x;x;x;;x;;x;;x;x;x;x;;x;x;x;x;x
+5;Left main coronary artery;LM;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+6;Proximal of LAD;pLAD;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+7;Medial of LAD;mLAD;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+8;Distal of LAD;dLAD;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+9;First diagonal branch;D1;x;;x;x;;x;x;x;;x;;x;x;x;x;x;x;x;x;x;x;;x;x;x;x;;;x;x;x;x;x;x;x;x;x;x;x;
+10;Second diagonal branch;D2;;;;;;;x;x;x;x;x;;x;;x;x;x;x;x;x;x;x;;x;x;x;x;;x;x;;x;x;;x;x;x;x;;
+11;Proximal of LCx;pLCx;x;x;x;x;x;x;x;x;x;x;x;x;;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+12;First obtuse marginal branch;OM1;x;;x;x;;x;;x;;x;;x;;;;;x;;;;;x;x;;x;x;x;x;;x;x;;x;x;;;x;;;x
+13;Medial and distal of LCx;LCx;x;x;x;x;x;x;x;x;x;x;x;x;;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x;x
+14;Second obtuse marginal branch;OM2;;;x;;x;x;x;;;x;x;;;;;;;;x;;;;;;;x;x;x;x;;x;x;;;;x;;x;;x
+15;Left posterior descending artery;L-PDA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+16;Right posterolateral branch;R-PLB;x;x;x;x;x;;x;;;x;;x;;x;x;x;x;x;x;x;x;x;x;x;x;;x;;x;;x;x;x;x;x;x;x;;x;x
+17;Ramus intermedius;RI;x;;x;;;;;x;x;x;;x;x;x;;x;x;x;;;x;x;;x;;;;;;x;;;;;;;;;;
+18;Left posterolateral branch;L-PLB;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
