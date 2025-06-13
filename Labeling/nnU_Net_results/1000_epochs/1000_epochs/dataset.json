@@ -1,0 +1,30 @@
+{
+    "labels": {
+        "background": 0,
+        "p-RCA": 1,
+        "m-RCA": 2,
+        "d-RCA": 3,
+        "R-PDA": 4,
+        "LMCA": 5,
+        "p-LAD": 6,
+        "m-LAD": 7,
+        "d-LAD": 8,
+        "D1": 9,
+        "D2": 10,
+        "p-LCX": 11,
+        "OM1": 12,
+        "d-LCX": 13,
+        "OM2": 14,
+        "L-PDA": 15,
+        "RPLB": 16,
+        "RI": 17,
+        "LPLB": 18,
+        "Tertiary": 19
+    },
+    "channel_names": {
+        "0": "CT"
+    },
+    "file_ending": ".nii.gz",
+    "name": "ASOCA_BY_SEGMENTS",
+    "numTraining": 40
+}
